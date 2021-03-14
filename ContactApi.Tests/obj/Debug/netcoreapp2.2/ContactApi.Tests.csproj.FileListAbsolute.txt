@@ -1,0 +1,17 @@
+c:\Work\ContactProject\ContactApi.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\Work\ContactProject\ContactApi.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\Work\ContactProject\ContactApi.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\Work\ContactProject\ContactApi.Tests\bin\Debug\netcoreapp2.2\ContactApi.Tests.deps.json
+c:\Work\ContactProject\ContactApi.Tests\bin\Debug\netcoreapp2.2\ContactApi.Tests.runtimeconfig.json
+c:\Work\ContactProject\ContactApi.Tests\bin\Debug\netcoreapp2.2\ContactApi.Tests.runtimeconfig.dev.json
+c:\Work\ContactProject\ContactApi.Tests\bin\Debug\netcoreapp2.2\ContactApi.Tests.dll
+c:\Work\ContactProject\ContactApi.Tests\bin\Debug\netcoreapp2.2\ContactApi.Tests.pdb
+c:\Work\ContactProject\ContactApi.Tests\bin\Debug\netcoreapp2.2\ContactApi.dll
+c:\Work\ContactProject\ContactApi.Tests\bin\Debug\netcoreapp2.2\ContactApi.pdb
+c:\Work\ContactProject\ContactApi.Tests\obj\Debug\netcoreapp2.2\ContactApi.Tests.csprojAssemblyReference.cache
+c:\Work\ContactProject\ContactApi.Tests\obj\Debug\netcoreapp2.2\ContactApi.Tests.csproj.CoreCompileInputs.cache
+c:\Work\ContactProject\ContactApi.Tests\obj\Debug\netcoreapp2.2\ContactApi.Tests.AssemblyInfoInputs.cache
+c:\Work\ContactProject\ContactApi.Tests\obj\Debug\netcoreapp2.2\ContactApi.Tests.AssemblyInfo.cs
+c:\Work\ContactProject\ContactApi.Tests\obj\Debug\netcoreapp2.2\ContactApi.Tests.csproj.CopyComplete
+c:\Work\ContactProject\ContactApi.Tests\obj\Debug\netcoreapp2.2\ContactApi.Tests.dll
+c:\Work\ContactProject\ContactApi.Tests\obj\Debug\netcoreapp2.2\ContactApi.Tests.pdb

@@ -1,0 +1,14 @@
+C:\Work\ContactProject\ContactApi\bin\Release\netcoreapp2.2\ContactApi.deps.json
+C:\Work\ContactProject\ContactApi\bin\Release\netcoreapp2.2\ContactApi.runtimeconfig.json
+C:\Work\ContactProject\ContactApi\bin\Release\netcoreapp2.2\ContactApi.runtimeconfig.dev.json
+C:\Work\ContactProject\ContactApi\bin\Release\netcoreapp2.2\ContactApi.dll
+C:\Work\ContactProject\ContactApi\bin\Release\netcoreapp2.2\ContactApi.pdb
+C:\Work\ContactProject\ContactApi\obj\Release\netcoreapp2.2\ContactApi.csprojAssemblyReference.cache
+C:\Work\ContactProject\ContactApi\obj\Release\netcoreapp2.2\ContactApi.csproj.CoreCompileInputs.cache
+C:\Work\ContactProject\ContactApi\obj\Release\netcoreapp2.2\ContactApi.RazorAssemblyInfo.cache
+C:\Work\ContactProject\ContactApi\obj\Release\netcoreapp2.2\ContactApi.RazorAssemblyInfo.cs
+C:\Work\ContactProject\ContactApi\obj\Release\netcoreapp2.2\ContactApi.AssemblyInfoInputs.cache
+C:\Work\ContactProject\ContactApi\obj\Release\netcoreapp2.2\ContactApi.AssemblyInfo.cs
+C:\Work\ContactProject\ContactApi\obj\Release\netcoreapp2.2\ContactApi.RazorTargetAssemblyInfo.cache
+C:\Work\ContactProject\ContactApi\obj\Release\netcoreapp2.2\ContactApi.dll
+C:\Work\ContactProject\ContactApi\obj\Release\netcoreapp2.2\ContactApi.pdb
